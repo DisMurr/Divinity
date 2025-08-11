@@ -9,7 +9,7 @@ html { -webkit-text-size-adjust: 100%; }
 body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Arial, "Apple Color Emoji", "Segoe UI Emoji"; background: var(--bg-900); color: var(--text-100); line-height: 1.6; }
 img, svg, video { display: block; max-width: 100%; height: auto; }
 button, input { font: inherit; }
-+a { color: inherit; text-decoration: none; }
+a {  color: inherit; text-decoration: none; }
 
 :root {
   --bg-900: #0b0f14;
